@@ -1,1 +1,1 @@
-My alx system engineering project
+script that prints the absolute path name of the current working directory
