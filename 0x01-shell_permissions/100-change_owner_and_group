@@ -1,2 +1,2 @@
 #!/bin/bash
-staff vincent.blinkenlights.nl
+chown betty:holberton *
